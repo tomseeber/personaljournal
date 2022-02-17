@@ -4,7 +4,7 @@ title:  "Welcome to Jekyll!"
 date:   2022-02-17 12:49:06 -0500
 categories: jekyll update
 ---
-nOPES  `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+nOPES  `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launcheddddddds a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
 
